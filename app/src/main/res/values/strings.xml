@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SafeChatOverlay</string>
+    <string name="how_we_work">How we work:\n 1. Open SafeChatOverlay app\n 2. Click on the button to enable the on top appear\n 3. Open accessbility to detect Whatsapp opeing</string>
+    <string name="enable_disable_on_top_appear">Enable/Disable on top appear</string>
+    <string name="enable_disable_accessibility">Enable/Disable Accessibility</string>
+    <string name="open_accessibility">Open Accessibility</string>
+    <string name="open_app_appear">Open App Appear</string>
+    <string name="exit">Exit</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
